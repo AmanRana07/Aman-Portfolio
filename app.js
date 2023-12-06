@@ -115,8 +115,8 @@ icons.forEach((icon) => {
 var myVar;
 
 function myFunction(){
-    myVar = setTimeout(hiding, 3000);
-    myVar = setTimeout(showPage,4000);
+    myVar = setTimeout(hiding, 30);
+    myVar = setTimeout(showPage,40);
 }
 
 function showPage(){
